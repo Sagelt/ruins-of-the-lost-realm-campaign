@@ -8,7 +8,7 @@ permalink: /
 # Ruins of the Lost Realm
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  You may want to start with the list of [sessions](/collections/sessions), [characters](collections/characters), or [locations](collections/locations).
+  You may want to start with the list of <a class="internal-link" href="/collections/sessions/">sessions</a>, <a class="internal-link" href="/collections/characters/">characters</a>, or <a class="internal-link" href="/collections/locations/">locations</a>.
 </p>
 
 To Sauron, now openly declared in Mordor, the West is an afterthought. He has already won there: the ring-smiths of Eregion are gone, Gil-galad is dead, Elendil is dead, their kingdoms are gone. There is no strength there to withstand him, so he instead musters his forces for Lothlorien, Erebor, Dale, Rohan, and Gondor.
