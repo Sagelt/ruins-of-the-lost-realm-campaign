@@ -4,6 +4,4 @@ title: About
 permalink: /about
 ---
 
-*This is an about page.*
-
-Feel free to tell the world about what you love! 😍
+This RPG campaign log was developed and written by [Sage LaTorra](https://svirfnebl.in/).
