@@ -1,6 +1,6 @@
 ---
 name: Nob Sweetroot
-player: Charles
+player: Ben
 ---
 
-A man of Bree.
+A man of Bree. Known for wandering the Lone Lands and getting in fights.
