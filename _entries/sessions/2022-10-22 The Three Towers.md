@@ -3,8 +3,6 @@ title: The Three Towers
 year: 2965
 ---
 
-# Summary
-
 [[Gandalf]] gathers everyone in Hobbiton and sends the company to [[The White Towers]] to attempt to use the palantír held there to ascertain where the forces of shadow are in their quest to find [[Rivendell]].
 
 At the towers all is not what it seems as there are others waiting to use the palantír which has been in use for months. When the charming [[Cirzor]] turns out to be more than he seems will the company be able to defend the towers?
