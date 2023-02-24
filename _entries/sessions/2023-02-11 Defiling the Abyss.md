@@ -4,7 +4,7 @@ year: 2966
 excerpt: When the fellowship's mission to help the lost fisherfolk children brings them to the lair of the Defiler of the Abyss will they be able to escape with their lives?
 ---
 
-When the fellowship's mission to help the lost fisherfolk children brings them to the lair of the [[Defiler of the Abyss]] will they be able to escape with their lives?
+When the fellowship's mission to help the lost fisherfolk children brings them to the lair of [[The Defiler of the Abyss]] will they be able to escape with their lives?
 
 # Session Log
 
