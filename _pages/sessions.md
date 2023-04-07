@@ -10,6 +10,6 @@ permalink: /collections/sessions
 {% for session in sessions %}
   {% assign file = session.path | split: "/" | slice: -1  %}
   {% assign session_date = file[0] | slice: 0,10 %}
-  <h1><a class="internal-link" href="{{session.url}}">{{session.title}}</a> - {{session_date}}</h1>
+  <h1><a class="internal-link" href="{{session.url}}">{{session.title}}</a></h1>
   <p>{{session.content | strip_html | remove: "[" | remove: "]" | truncatewords: 20}}</p>
 {% endfor %}
