@@ -8,3 +8,4 @@ A former adventurer, Hildelid protected the farmsteads around [[The Last Bridge]
 # Notable Events
 
 * In fall 2965 [[Ithildir]] noticed the family relationship and reunited Hildelid and Norwinda.
+* In 2967 Hildelid again hosted the fellowship and provided insight into the means and goals of the Black Númenóreans.
