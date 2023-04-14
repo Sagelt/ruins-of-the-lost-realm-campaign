@@ -9,7 +9,7 @@ Following the trail of the attackers the fellowship comes to Fort Arlas, once a 
 
 # Session Log
 
-[[Gandalf]] calls the fellowship to the Prancing Pony to meet [[Drustan]], an agent of Saruman who had been carrying a letter to Rivendell when he was attacked around [[The Last Bridge]]. Fearing that the attackers, who captured the letter, may be Black Númenóreans and that the letter may contain information that will help them locate Rivendell, Gandalf sends the fellowship to retrieve the letter, bit apt before [[Boron]] can provoke the rather gruff Drustan.
+[[Gandalf]] calls the fellowship to [[The Prancing Pony]] to meet [[Drustan]], an agent of Saruman who had been carrying a letter to Rivendell when he was attacked around [[The Last Bridge]]. Fearing that the attackers, who captured the letter, may be Black Númenóreans and that the letter may contain information that will help them locate Rivendell, Gandalf sends the fellowship to retrieve the letter, bit apt before [[Boron]] can provoke the rather gruff Drustan.
 
 As they fellowship travels East along The Great East Road they encounter a pale figure on the road, walking as if in a dream. They wisely give it the road and make their way around.
 

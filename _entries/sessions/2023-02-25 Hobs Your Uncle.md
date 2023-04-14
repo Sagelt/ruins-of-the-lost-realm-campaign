@@ -16,11 +16,11 @@ In Lindon [[Ithildir]] meets with Firiel, and elven smith, to attempt to cleanse
 
 As Rethe 2966 draws to a close the elves pass through the Shire on their way to Bree and stop to collect [[Griff]] who had forgotten when he was supposed to meet Gandalf. After a night of hospitality from Griff's mother, Marigold, they continue on to Bree.
 
-Gandalf is indeed in the Prancing Pony, but he seems surprised to see the fellowship. He has an expedition headed East which needs guards, but they've already left. Gandalf will take the fellowship to catch up with the expedition.
+Gandalf is indeed in [[The Prancing Pony]], but he seems surprised to see the fellowship. He has an expedition headed East which needs guards, but they've already left. Gandalf will take the fellowship to catch up with the expedition.
 
 But first Gandalf absentmindedly wanders out and a traveler arrives and starts asking questions. When Ithildir tries to ascertain what the stranger is asking about he spooks and leaves. [[Tarandis]] tails the stranger and hears him asking Bree-folk about Imladris (that's [[Rivendell]] to the mortals).
 
-Back at the Prancing Pony Griff meets Tilly and Sid Lillyhawk who tell the sad story of being driven off from their home by none other than the mysterious stranger. Ithildir tries to persuade Barliman Butterburr to dish on the stranger, but he refuses and hurries off to warn the stranger.
+Back at The Prancing Pony Griff meets Tilly and Sid Lillyhawk who tell the sad story of being driven off from their home by none other than the mysterious stranger. Ithildir tries to persuade Barliman Butterburr to dish on the stranger, but he refuses and hurries off to warn the stranger.
 
 Griff sets out after the stranger as well, but someone throws a sack over him from behind and drags him away. But Tarandis and Ithildir see it happen and follow after, eventually reaching a cottage with a dead body outside.
 

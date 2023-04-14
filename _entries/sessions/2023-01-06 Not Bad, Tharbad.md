@@ -4,7 +4,7 @@ year: 2966
 excerpt: When a mission for Gandalf takes the fellowship through Tharbad will they be able to pass through without becoming entangled in the struggles of the once-great city?
 ---
 
-After [[Gandalf]] stands up the fellowship at the Prancing Pony the wizard shows up precisely when he is meant to at [[Nob]]'s house and sends them out to deliver a gift to [[Queen Nimue]] in [[Lond Daer]].
+After [[Gandalf]] stands up the fellowship at [[The Prancing Pony]] the wizard shows up precisely when he is meant to at [[Nob]]'s house and sends them out to deliver a gift to [[Queen Nimue]] in [[Lond Daer]].
 
 The route takes the fellowship through [[Tharbad]] which is filled with danger and intrigue. Will they be able to leave without being entangled in the struggles of the once-great city?
 
