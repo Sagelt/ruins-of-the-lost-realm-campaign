@@ -25,3 +25,5 @@ With time and speed now of the essence Nob carries the children among the captiv
 The efforts of the fellowship are not enough and the Dunlendings set upon the refugees not far from Tharbad. Darkness falls on the thoughts of the fellowship, but on Boron most of all. Lashing out he beats a Tharbad gate guard in a rage until Griff and [[Captain Kaeldor]] are able to de-escalate the situation.
 
 With the situation in Tharbad gone from bad to worse the city is on the brink of collapse.
+
+
