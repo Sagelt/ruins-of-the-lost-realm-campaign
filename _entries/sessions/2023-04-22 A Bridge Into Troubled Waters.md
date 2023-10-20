@@ -12,7 +12,7 @@ As winter sets in, Nob throws a long-expected 40th birthday party for himself. T
 
 The fellowship returns to [[Tharbad]] to find the flood getting worse. Boron heads off to lend his "able dwarfish hands" (hot) to keeping the walls up. The middle island is already under water with only the tops of the buildings still dry, while the ruins of the old bridge are collapsing entirely.
 
-Spotting Jan The Frog clinging to the pylon of the old bridge [[Nob]] leaps out onto the bridge to throw a rope. [[Griff]] attempts to calm the crowd by putting them to work, but a wall collapses on him and knocks him out. [[Tarandis]] gathers people to dig Griff out from the rubble. They manage to free the hobbit, but he's in a bad way and likely to die without help.
+Spotting [[Jan The Frog]] clinging to the pylon of the old bridge [[Nob]] leaps out onto the bridge to throw a rope. [[Griff]] attempts to calm the crowd by putting them to work, but a wall collapses on him and knocks him out. [[Tarandis]] gathers people to dig Griff out from the rubble. They manage to free the hobbit, but he's in a bad way and likely to die without help.
 
 Meanwhile on the ruins of the old bridge Nob pulls Jan up just as part of the causeway crumbles—including the part that Nob came in on. With hope fading shadow sets in on Nob's heart.
 

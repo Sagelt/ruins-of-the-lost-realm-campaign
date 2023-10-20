@@ -26,7 +26,7 @@ A day out from Tharbad Eredan departs for his own mysterious reasons just as a s
 
 Finally reaching Tharbad the fellowship finds the gates distinctly uninviting with posted laws and gruff guards. Paying their way past the gates they eventually arrive at The Bridge Inn. It's proprietor, one [[Titus]], is thrilled to have a hobbit taste his food until the look on Griff's face at the first taste puts him off.
 
-On Titus' recommendation the fellowship sets off for the middle island to meet [[Milton The Brewer]]. At the docks Nob hires Jan The Frog to ferry us to the island while Boron books passage down river on a barge leaving the next day captained by Giles Furnir.
+On Titus' recommendation the fellowship sets off for the middle island to meet [[Milton The Brewer]]. At the docks Nob hires [[Jan The Frog]] to ferry us to the island while Boron books passage down river on a barge leaving the next day captained by Giles Furnir.
 
 Across the water at Milton's brewhouse the fellowship pays for a round of what turns out to be the best beer they have ever tasted. Griff is able to coax Milton to talking and finds out Milton and the others on the island are trapped here—the laws of [[Captain Gurnow]] don't allow them to leave.
 
